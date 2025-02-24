@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: More information about some of my past and current research directions.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+#display_categories: [work]
 horizontal: false
 ---
 
