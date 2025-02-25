@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "A hypertext version of my curriculum vitae. A classic PDF version can be downloaded at the link above.",
+          description: "A brief, hypertext version of my curriculum vitae. A classic PDF version (including a full list of publications and talks given) can be downloaded at the link above.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
