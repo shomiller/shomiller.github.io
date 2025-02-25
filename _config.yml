@@ -192,6 +192,7 @@ exclude:
   - _pages/profiles.md
   - _posts/drafts
   - _posts/examples
+  - _projects/examples
   - purgecss.config.js
   - README.md
   - readme_preview/
