@@ -6,6 +6,35 @@
 @use "sass:color";
 
 // Colors
+
+// Cornell
+$cornell-red: #b31b1b !default;
+$cornell-dark-grey: #222222 !default;
+$cornell-sea-grey: #9fad9f !default;
+$cornell-blue: #006699 !default;
+$cornell-light-green: #63b43f !default;
+$cornell-green: #4b7b2b !default;
+$cornell-light-orange: #f8981d !default;
+$cornell-orange: #d47500 !default;
+$cornell-second-red: #df1e12 !default;
+$cornell-light-second-red: #ef4035 !default;
+$cornell-navy: #073949 !default;
+
+// Pitt
+$pitt-blue: #003594 !default;
+$pitt-gold: #ffb81c !default;
+$pitt-sky: #dbeeff !default;
+$pitt-gray: #c8c9c7 !default;
+$pitt-dark-blue: #00205b !default;
+$pitt-bronze: #b87333 !default;
+$pitt-accent-yellow: #ff3939 !default;
+$pitt-accent-blue: #66b2e3 !default;
+$pitt-accent-green: #00ad6e !default;
+$pitt-accent-orange: #f7911e !default;
+$pitt-accent-red: #ff5b45 !default;
+$pitt-accent-peach: #ffdecd !default;
+$pitt-accent-maroon: #770538 !default;
+
 $red-color: #ff3636 !default;
 $red-color-dark: #b71c1c !default;
 $orange-color: #f29105 !default;
