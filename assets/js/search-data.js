@@ -14,14 +14,7 @@ ninja.data = [{
           description: "More information about some of my past and current research directions.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Course materials and other pedagogical notes and resources.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/research/";
           },
         },{id: "nav-publications",
           title: "Publications",
