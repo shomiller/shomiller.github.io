@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Research
+title: Projects
 permalink: /projects/
 description: More information about some of my past and current research directions.
 nav: true
 nav_order: 2
 #display_categories: [work]
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->

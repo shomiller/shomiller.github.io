@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: Course materials and other pedagogical notes and resources.
-nav: true
+nav: false
 nav_order: 3
 ---
 

@@ -190,8 +190,10 @@ exclude:
   - _pages/about_einstein.md
   - _pages/dropdown.md
   - _pages/profiles.md
+  - _pages/projects.md
   - _posts/drafts
   - _posts/examples
+  - _projects/
   - _projects/examples
   - purgecss.config.js
   - README.md
