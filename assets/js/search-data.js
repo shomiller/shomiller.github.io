@@ -40,6 +40,9 @@ ninja.data = [{
         },{id: "news-new-website-lots-of-updates-forthcoming",
           title: 'New website! Lots of updates forthcoming…',
           description: "",
+          section: "News",},{id: "news-in-pittsburgh-for-pheno-2025-see-my-plenary-talk-on-future-colliders-on-wednesday",
+          title: 'In Pittsburgh for Pheno 2025!; See my plenary talk on future colliders on...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
