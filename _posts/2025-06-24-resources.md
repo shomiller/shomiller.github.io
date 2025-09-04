@@ -20,7 +20,7 @@ Seriously, for a concise and reliable reference for topics ranging from accelera
 
 ### SM/BSM Physics
 
-- [*"Just a Taste: Lectures on Flavor Physics"* [arXiv:17811.03624]](https://arxiv.org/abs/17811.03624) by Yuval Grossman and Flip Tanedo give a detailed introduction to the flavor sector of the Standard Model, with a lot of lessons that are useful for model-building in general.
+- [*"Just a Taste: Lectures on Flavor Physics"* [arXiv:1711.03624]](https://arxiv.org/abs/1711.03624) by Yuval Grossman and Flip Tanedo give a detailed introduction to the flavor sector of the Standard Model, with a lot of lessons that are useful for model-building in general.
 
 - A. Denner's review on performing higher-order electroweak calculations [[arXiv:0709.1075]](https://arxiv.org/abs/0709.1075) is a great resource for deeper calculations, with conventions that are largely adopted in codes such as *FeynArts*, etc.
 

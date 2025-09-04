@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://pittpacc.pitt.edu'>Pitt-PACC, University of Pittsburgh</a>
+subtitle: <a href='https://pittpacc.pitt.edu'>Pitt-PACC, Dept. of Physics & Astronomy, University of Pittsburgh</a>
 
 profile:
   align: right

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-At Fermilab for the [LPC EFT Workshop](https://indico.fnal.gov/event/68174/) discussing theory challenges for SMEFT.
+At Fermilab for the [LPC EFT Workshop](indico.fnal.gov/event/68174/) discussing theory challenges for SMEFT.
