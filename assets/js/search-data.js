@@ -37,13 +37,35 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "news-new-website-lots-of-updates-forthcoming",
+        },{id: "post-resources",
+      
+        title: "Resources",
+      
+      description: "An (incomplete) list of notes / lectures to check out",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/resources/";
+        
+      },
+    },{id: "news-new-website-lots-of-updates-forthcoming",
           title: 'New website! Lots of updates forthcoming…',
           description: "",
-          section: "News",},{id: "news-in-pittsburgh-for-pheno-2025-see-my-plenary-talk-on-future-colliders-on-wednesday",
-          title: 'In Pittsburgh for Pheno 2025!; See my plenary talk on future colliders on...',
+          section: "News",},{id: "news-in-pittsburgh-for-pheno-2025-hear-me-talk-about-future-colliders-on-wednesday",
+          title: 'In Pittsburgh for Pheno 2025! Hear me talk about future colliders on Wednesday....',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "news-at-fermilab-for-the-lpc-eft-workshop-discussing-theory-challenges-for-smeft",
+          title: 'At Fermilab for the LPC EFT Workshop discussing theory challenges for SMEFT.',
+          description: "",
+          section: "News",},{id: "news-in-chicago-for-the-2nd-annual-us-muon-collider-meeting-i-ll-be-talking-about-forthcoming-work-on-lepton-flavor-violating-probes-at-high-energy-muon-colliders-on-friday",
+          title: 'In Chicago for the 2nd Annual US Muon Collider Meeting! I’ll be talking...',
+          description: "",
+          section: "News",},{id: "news-officially-starting-at-pittsburgh",
+          title: 'Officially Starting at Pittsburgh!',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025-4-starting-at-pitt/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
