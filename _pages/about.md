@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://pittpacc.pitt.edu'>Pitt-PACC, Dept. of Physics & Astronomy, University of Pittsburgh</a>
+subtitle: <a href='https://pittpacc.pitt.edu'>Pitt PACC, Dept. of Physics & Astronomy,<br>University of Pittsburgh</a>
 
 profile:
   align: right
@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor in the Department of Physics and Astronomy at the University of Pittsburgh, and a member of the Pittsburgh Particle Physics, Astrophysics and Cosmology Center ([Pitt-PACC](https://pittpacc.pitt.edu)). I work on a variety of topics in high-energy particle theory, with a focus on the physics of the Higgs boson, the flavor and strong CP puzzles, beyond the Standard Model physics at colliders and other experiments, and related formal aspects of quantum field theory.
+I am an Assistant Professor in the Department of Physics and Astronomy at the University of Pittsburgh, and a member of the Pittsburgh Particle Physics, Astrophysics and Cosmology Center ([Pitt&nbsp;PACC](https://pittpacc.pitt.edu)). I work on a variety of topics in high-energy particle theory, with a focus on the physics of the Higgs boson, the flavor and strong CP puzzles, beyond the Standard Model physics at colliders and other experiments, and related formal aspects of quantum field theory.
 
 Prior to arriving at Pittsburgh in 2025, I was the Hans Bethe Postdoctoral Fellow in the Laboratory for Elementary Particle Physics at Cornell University and a Postdoctoral Fellow in the High Energy Theory Group at Harvard University. I obtained my Ph.D. in 2020 working in the C. N. Yang Institute for Theoretical Physics (YITP) at Stony Brook University, supervised by [Patrick Meade](http://insti.physics.sunysb.edu/~meade/). My dissertation was awarded the J. J. and Noriko Sakurai Dissertation Award in Theoretical Particle Physics in 2021. I also spent time as a visitor at Brookhaven National Laboratory, working with Sally Dawson as part of the DOE SCGSR Program. I did my undergraduate work at the University of Illinois, Urbana-Champaign, where I graduated in 2015 with degrees in Physics and Mathematics.
 
