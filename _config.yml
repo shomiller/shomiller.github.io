@@ -151,6 +151,11 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  teaching:
+    defaults:
+      layout: post
+    output: true
+    permalink: /:collection/:title/
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
