@@ -72,8 +72,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025-4-starting-at-pitt/";
-            },},{id: "teaching-phys-3101-effective-field-theories-in-particle-physics",
-          title: 'PHYS 3101: Effective Field Theories in Particle Physics',
+            },},{id: "teaching-phys-3102-effective-field-theories-in-particle-physics",
+          title: 'PHYS 3102: Effective Field Theories in Particle Physics',
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/2026-1/";
