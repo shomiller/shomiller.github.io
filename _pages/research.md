@@ -25,7 +25,15 @@ For all these reasons, it is crucial to test the Higgs sector of the Standard Mo
 
 ## Muon Collider Physics
 
-More soon... 
+Since 2020 I have been heavily involved in studying the unique physics case of a high-energy _muon_ collider. As a heavier cousin of the electron, muons can be more readily accelerated to high energies without the barrier of synchrotron radiation, and while still being elementary particles whose full energy is available in the collision. There are significant challenges in accelerating muon beams, but these advantages offer a potentially much more efficient route to very high energy scales beyond the horizon of the LHC. A muon collider inscribed roughly inside the Fermilab campus, for instance, could reach center of mass energies of 8 -- 10 TeV, providing a direct reach comparable to an 80 TeV proton collider.
+
+My research has focussed on some of the unique signatures that are possible with high-energy muon collisions. At these energies, there are large cross sections for vector-boson-scattering processes. These provide unprecedented sensitivity to the electroweak-Higgs interactions, the mechanism of electroweak symmetry breaking, and even to new sources of CP-violation[^1]. My collaborators and I have also shown that a high-energy muon collider would have incomparable sensitivity to new sources of lepton flavor violation as well [^2] [^3]. There is a great deal more work needed in realizing a Muon Collider; more details and information on getting involved in the broader effort can be found on the [U.S. Muon Collider Collaboration (USMCC) website](https://www.muoncollider.us).
+
+[^1]: "Barr--Zee Diagrams at a High-Energy Muon Collider", <br>**SDH**, J. Lodman, A. Parikh and M. Reece, <br>*JHEP 12* (2024) 134, [arXiv:2410.01873](https://arxiv.org/abs/2410.01873)
+
+[^2]: "Lepton Flavor Violation: From Muon Decays to Muon Colliders", <br>P. Asadi, H. Bagherian, K. Fraser, **SDH** and Q. Lu, <br>*Phys. Rev. D 113* (2026), [arXiv:2509.22771](https://arxiv.org/abs/2509.22771). 
+
+[^3]: "Complementary Signals of Lepton Flavor Violation at a High-Energy Muon Collider",<br> **SDH**, Q. Lu and M. Reece, <br>*JHEP 07* (2022) 036, [arXiv:2203.08825](https://arxiv.org/abs/2203.08825). 
 
 *** 
 
