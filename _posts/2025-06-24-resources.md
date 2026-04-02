@@ -4,7 +4,7 @@ title: Resources
 #date: 2025-06-24 08:00:00-0400
 description: An (incomplete) list of notes / lectures to check out 
 tags: 
-categories: sample-posts
+categories: resources
 ---
 
 This page is simply a (long, but definitely incomplete) list of various lecture notes or other resources that are useful background for my biased interests in particle theory.
