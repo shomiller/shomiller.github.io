@@ -64,7 +64,19 @@ pythia8-config
 
 The main programs that serve as both templates and examples can all be found in `pythia8-install/share/Pythia8/examples/`, and can be compiled and run separately (but don't run them on a login node). 
 
-Next we can install Delphes:
+We can similarly install FastJet and Delphes:
+
+~~~
+cp /ix1/shomiller/sdh93/source/fastjet-3.5.1.tar /ix1/shomiller/UserID/DESTINATION/
+cd /ix1/shomiller/UserID/DESTINATION
+tar -xvf fastjet-3.5.1.tar
+cd fastjet-3.5.1/
+./configure --prefix=/ix1/shomiller/UserID/DESTINATION/fastjet-install --enable-pyext
+make
+make check
+make install
+~~~
+
 ~~~
 cp /ix1/shomiller/sdh93/source/Delphes-3.5.0.tar.gz /ix1/shomiller/UserID/DESTINATION/
 cd /ix1/shomiller/UserID/DESTINATION
@@ -74,7 +86,8 @@ cd Delphes-3.5.0/
 make
 ~~~
 
-Later we can try to interface these with MadGraph, or just run them step-by-step individually. 
+To check the FastJet installation, compile and run the `short-example.cc` script on FastJet's website: (https://fastjet.fr/quickstart.html). 
+Later we can try to interface Pythia8 and Delphes with MadGraph, or just run them step-by-step individually. 
 
 ### Running Jobs with SLURM:
 
