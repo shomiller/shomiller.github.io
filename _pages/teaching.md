@@ -7,15 +7,17 @@ nav: true
 nav_order: 3
 ---
 
-#### Current Teaching (Spring 2026)<br>[PHYS 3102: Effective Field Theories in Particle Physics](/teaching/2026-1)
+### Current Teaching (Fall 2026)<br>[PHYS 3717: Particle Physics](/teaching/2026-2)
+<br>
 
-#### Upcoming (Fall 2026)<br>[PHYS 3717: Particle Physics](/teaching/2026-2)
+### Upcoming (Spring 2027)<br>[PHYS 3718: Advanced Particle Physics](/teaching/2027-1)
+<br>
 
-<!--
 ### Past Courses:
 
-None yet!
+- Spring 2026: [PHYS 3102: Effective Field Theories in Particle Physics](/teaching/2026-1)
 
+<!--
 
 ### Other Notes: 
 
