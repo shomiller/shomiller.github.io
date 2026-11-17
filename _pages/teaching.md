@@ -10,7 +10,10 @@ nav_order: 3
 ### Current Teaching (Fall 2026)<br>[PHYS 3717: Particle Physics](/teaching/2026-2)
 <br>
 
-### Upcoming (Spring 2027)<br>[PHYS 3718: Advanced Particle Physics](/teaching/2027-1)
+### Upcoming (Spring 2027)
+
+#### [PHYS 3718: Advanced Particle Physics](/teaching/2027-1)
+#### [Special Topics: Supersymmetry](/teaching/2027-1x)
 <br>
 
 ### Past Courses:
@@ -19,8 +22,8 @@ nav_order: 3
 
 <!--
 
-### Other Notes: 
+### Other Notes:
 
 
-### Resources: 
+### Resources:
 -->
